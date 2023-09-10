@@ -1,0 +1,11 @@
+.head{
+    background-color: red;
+    display: inline-block;
+}
+
+.pfp{
+    background-color: blue;
+    height: 250px;
+    width: 200px;
+    display: inline-block;
+}
